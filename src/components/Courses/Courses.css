@@ -1,0 +1,13 @@
+.courses-container{
+    display: flex;   
+}
+
+.single-course{
+    width: 70%;
+    margin-left:20px;
+    margin-right: 10px;
+    border-right: 1px solid lightgrey;
+}
+.cart-container h3{
+    text-align: center;
+}

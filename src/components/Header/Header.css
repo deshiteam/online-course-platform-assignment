@@ -1,0 +1,27 @@
+.header img{
+    margin-bottom: 10px;
+}
+.header{
+    text-align: center;
+    margin-top:30px;
+    border-bottom:  1px solid lightgrey;
+}
+
+.header nav{
+    background-color: darkorange;
+    line-height: 40px;
+    font-size: 20px;
+ 
+}
+
+.header a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    padding: 7px;
+}
+
+.header a:hover{
+    background-color:#2e2d2d;
+    color: white;
+}
